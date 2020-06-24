@@ -1,2 +1,2 @@
-#!/bin/csh
+#!/nadavsch/bin/bash
 echo success
